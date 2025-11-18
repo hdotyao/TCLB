@@ -50,3 +50,7 @@ update.sh
 
 phd-xiaobo/
 cases/
+
+bubble*/
+slurm*
+tmp.job.scr
