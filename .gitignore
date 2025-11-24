@@ -55,3 +55,6 @@ bubble*/
 slurm*
 tmp.job.scr
 *.swp
+
+run*
+log*
